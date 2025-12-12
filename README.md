@@ -11,7 +11,7 @@
 
 The rebalance is based not only on engine power/weight but also on detailed driving characteristics such as handling, stability, and traction. Most vehicles (except rally configurations) were test-driven on the Hiroshi Raceway (Short), and the results from those runs were used to create this list.  I aimed to stay strictly within the performance limits defined for each class by the original author.
 
-# Beam Legal Racing 1.19.1Rebalance Notes
+# Beam Legal Racing 1.19.1
 BeamLR is a persistent career BeamNG mod inspired by SLRR aiming to bring hardcore game mechanics to BeamNG such as external and mechanical damage persistence, money, paying for repairs, player health and injuries with fatal crashes resetting your save file, etc. The mod adds interaction to the sandbox with gas stations, repair shops, in world vehicle store system, dynamic race events, enabled traffic and more to achieve a sandbox career experience. 
 
 Perform missions, races and challenges to earn money to buy vehicles and parts. Drive carefully as repairs can be quite costly and a hard enough crash could mean game over!
